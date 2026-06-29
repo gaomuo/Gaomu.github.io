@@ -1,0 +1,33 @@
+title: Gaomu's Homepage
+page-top-title: Gaomu
+top-section-bg-text: NOBODY KNOWS I'M A LESBIAN
+backgrounds:
+  - static/assets/background/background_0.jpg
+  - static/assets/background/background_1.jpg
+  - static/assets/background/background_2.jpg
+background-interval-ms: 6000
+background-overlay: 0.20
+copyright-text: '&copy; Gaomu 2026. All Rights Reserved.'
+github-link:
+  text: Github
+  href: https://github.com/gaomuo
+license-link:
+  text: License
+  href: https://github.com/gaomuo/gaomuo.github.io/blob/main/LICENSE
+sections:
+  - id: home
+    nav: HOME
+    title: GaoMu&ensp;|&ensp;高木
+    href: '#page-top'
+  - id: experience
+    nav: EXPERIENCE
+    title: EXPERIENCE
+    icon: bi-briefcase-fill
+  - id: motto
+    nav: MOTTO
+    title: MOTTO
+    icon: bi-award-fill
+  - id: social
+    nav: SOCIAL
+    title: SOCIAL MEDIA
+    icon: bi-share-fill

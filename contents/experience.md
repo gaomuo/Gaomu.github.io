@@ -1,0 +1,22 @@
+One years old when I was 1;  
+Two years old when I was 2;  
+Three years old when I was 3;  
+Four years old when I was 4;  
+Five years old when I was 5;  
+Six years old when I was 6;  
+Seven years old when I was 7;  
+Eight years old when I was 8;  
+Nine years old when I was 9;  
+Ten years old when I was 10;  
+Eleven years old when I was 11;  
+Twelve years old when I was 12;  
+Thrtenn years old when I was 13;  
+Forteen years old when I was 14;  
+Fifteen years old when I was 15;  
+Sixteen years old when I was 16;  
+Seventeen years old when I was 17;  
+Eightteen years old when I was 18;  
+Ninteen years old when I was 19;  
+Twenty years old when I was 20;  
+Twenty one years old when I was 21;  
+Twenty two years old when I was 22.
